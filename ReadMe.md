@@ -111,35 +111,11 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Basharkhan7776&&style=flat-square" align="center" />
 </div>  
-  
 
-<br/>  
-
-<table><tr><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>
-<br />
+  <br/>
 
 ----
