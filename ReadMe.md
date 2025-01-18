@@ -13,11 +13,8 @@
 
 <br/>  
 
-
 ## My Skill Set  
 <table><tr><td valign="top" width="25%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -39,8 +36,6 @@
 
 </td><td valign="top" width="25%">
 
-
-
 ### Backend  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -53,8 +48,6 @@
 </div>
 
 </td><td valign="top" width="25%">
-
-
 
 ### DevOps & Database 
 <div align="center">  
@@ -85,7 +78,6 @@
 
 <br/>  
 
-
 ## Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/bashar-khan-ba2564291" target="_blank">
@@ -102,13 +94,10 @@
 
 <br/>  
 
-
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Basharkhan7776&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Basharkhan7776&&style=flat-square" align="center" />
