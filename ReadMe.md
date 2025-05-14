@@ -12,14 +12,13 @@
 <br/>  
 
 ## GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=@basharkhan7776&theme=aura_dark&hide_border=false)<br/>
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=@basharkhan7776&theme=aura_dark&hide_border=false" alt="GitHub Streak Stats"/>
+</div>
+<br/>
 
 ---
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=@basharkhan7776&icon=0&color=4)](https://visitcount.itsvg.in)
   
 
-<br/>  
-
-----
