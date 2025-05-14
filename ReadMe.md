@@ -12,15 +12,12 @@
 <br/>  
 
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=@basharkhan7776&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=@basharkhan7776&theme=aura_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=@basharkhan7776&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+<br/>
+
 [![](https://visitcount.itsvg.in/api?id=@basharkhan7776&icon=0&color=4)](https://visitcount.itsvg.in)
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin: 20px;" />
-</a>  
-</div>  
   
 
 <br/>  
