@@ -13,7 +13,7 @@
 
 ## GitHub Stats:
 <div align="center">
-  <img src="thttps://nirzak-streak-stats.vercel.app/?user=@basharkhan7776&theme=aura_dark&hide_border=false" alt="GitHub Streak Stats"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=@basharkhan7776&theme=aura_dark&hide_border=false" alt="GitHub Streak Stats"/>
 </div>
 <br/>
 
