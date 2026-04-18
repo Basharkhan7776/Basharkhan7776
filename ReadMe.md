@@ -5,8 +5,10 @@
 - I'm a software developer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I'm focused on building accessible, human-centered products. 
   
 
-<br/>   
+<br/>
+
 ## GitHub Stats:
+
 <div align="center">
   <img src="https://basharkhan.vercel.app/" alt="GitHub Streak Stats"/>
 </div>
